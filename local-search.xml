@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>我的第一篇文章</title>
+    <link href="/2020/02/20/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <url>/2020/02/20/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    
+    <content type="html"><![CDATA[<h1 id="JAVA开发自学指南"><a href="#JAVA开发自学指南" class="headerlink" title="JAVA开发自学指南"></a>JAVA开发自学指南</h1><h2 id="基础知识"><a href="#基础知识" class="headerlink" title="基础知识##"></a>基础知识##</h2><ul><li>编程语言：java    Python    C</li><li>基本算法</li><li>基本网络知识：TCP/IP HTTP</li><li>基本的设计模式</li></ul><h2 id="工具方面"><a href="#工具方面" class="headerlink" title="工具方面"></a>工具方面</h2><ul><li>操作系统：Linux(CentOS\Ubuntu)</li><li>代码管理：SVN/GIT</li><li>持续集成（CI/CD)：Jenkins</li><li>java的项目管理工具：Maven/Gradle</li></ul><h2 id="框架方面"><a href="#框架方面" class="headerlink" title="框架方面"></a>框架方面</h2><h4 id="应用层框架"><a href="#应用层框架" class="headerlink" title="应用层框架"></a>应用层框架</h4><ul><li><del>ssh  spring + structs +hibernate</del></li><li>ssm: spring + springMVC + Mybatis</li><li>spring boot</li></ul><h4 id="各种中间件"><a href="#各种中间件" class="headerlink" title="各种中间件"></a>各种中间件</h4><ul><li>MQ 消息队列</li><li>RPC 通信框架 gRPC thrift dubbo springcolud</li><li>elasticserach 数据库 搜索引擎</li></ul><h4 id="数据库"><a href="#数据库" class="headerlink" title="数据库"></a>数据库</h4><ul><li>SQL：MySql / Postgre SQL</li><li>NoSQL:Redis Memcached mongdb elasticsearch</li></ul><h2 id="架构方面"><a href="#架构方面" class="headerlink" title="架构方面"></a>架构方面</h2><h4 id="分布式-微服务框架"><a href="#分布式-微服务框架" class="headerlink" title="分布式/微服务框架"></a>分布式/微服务框架</h4><ul><li>spring cloud</li><li>dubbo</li><li>rpc通信</li></ul><h5 id="虚拟化-容器化技术"><a href="#虚拟化-容器化技术" class="headerlink" title="虚拟化/容器化技术"></a>虚拟化/容器化技术</h5><ul><li>Docker 容器化</li><li>K8S </li></ul><h2 id="关注源码-性能"><a href="#关注源码-性能" class="headerlink" title="关注源码/性能"></a>关注源码/性能</h2><ul><li>JDK源码以及部分设计思想</li><li>Spring源码</li><li>JVM 细节与排错</li><li>高并发/高可用</li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2020/02/20/hello-world/"/>
+    <url>/2020/02/20/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
